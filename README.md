@@ -117,15 +117,17 @@ Showcase your project in action! You can embed images and a video here to give u
 
 Screenshot 1: Add a screenshot of the assistant UI here.
 
-![Assistant UI Screenshot](path/to/your/image.png)
+<img width="1920" height="1080" alt="{BC98065B-C72D-401A-B46E-74B99772A9F0}" src="https://github.com/user-attachments/assets/769bd24c-705a-4672-8af5-9e4babebe490" />
+
 
 Screenshot 2: Add a screenshot of the screen capture process here.
 
-![Screen Capture Screenshot](path/to/your/image.png)
+<img width="1920" height="1080" alt="{270539B9-C861-4204-AC78-46DD807A0D07}" src="https://github.com/user-attachments/assets/f66d9428-8488-42c0-b3c2-4edaf873127e" />
+
 
 Video Demo: Add a link to a video demonstration.
 
-[Watch a video demonstration here](https://www.youtube.com/your-video-link)
+[Watch a video demonstration here](https://drive.google.com/file/d/1ZPeBCvVm0K0_Ff0CeWr8eqzpXHwPpgYI/view?usp=sharing)
 
 Contributing 🤝
 We welcome contributions! Please feel free to fork the repository, make changes, and submit a pull request.
