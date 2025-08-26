@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            width: 300px;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .button {
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .button:hover {
+            background-color: #3367d6;
+        }
+        .status {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <h3>Gemini Desktop Assistant</h3>
+    <button id="activateBtn" class="button">🚀 Activate Assistant</button>
+    <button id="testBtn" class="button">🔧 Test Connection</button>
+    <div id="status" class="status">Ready to connect...</div>
+    
+    <script src="popup.js"></script>
+</body>
+</html>

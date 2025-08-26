@@ -1,0 +1,9 @@
+{
+  "name": "com.gemini.assistant",
+  "description": "Native messaging host for Gemini Desktop Assistant.",
+  "path": "C:\\Users\\R0ahu\\OneDrive\\Documents\\Programming\\Python\\Chatbot\\native_messaging_host\\launch_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://efkocfgfppjldnmkeinlhokklklpadhf/"
+  ]
+}
