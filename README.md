@@ -44,7 +44,7 @@ Start by cloning the project from GitHub.
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/R0ahulkd/Gemini-Desktop-Assistant
 cd your-repo-name
 Step 2: Set up the Python Environment
 Install Python: Ensure you have Python 3.9 or newer installed.
