@@ -1,8 +1,10 @@
 Gemini Desktop Assistant ✨
+
 Description
 The Gemini Desktop Assistant is a powerful tool that integrates Google's Generative AI with your desktop environment. This project consists of a Chrome extension and a Python desktop application that work together via Native Messaging. With a simple keyboard shortcut or a click on the extension icon, you can activate the assistant, capture a selected area of your screen, and get an instant AI-powered response based on the extracted text. This is a single-instance application, ensuring it runs efficiently without creating duplicate processes.
 
 Features ⭐
+
 Seamless Integration: Connects your Chrome browser to a local Python application using Native Messaging.
 
 Hotkey Activation: Use Ctrl + Alt + G to start a screen capture and Ctrl + Alt + H to toggle the assistant's UI.
